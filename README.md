@@ -1,6 +1,6 @@
 # servedoc.java
 
-Simple, no-dependencies javadoc server for Java 19+.
+Simple, no-dependencies javadoc server for Java 21+.
 
 ## Installation
 

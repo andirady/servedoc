@@ -1,4 +1,4 @@
-///usr/bin/env java --enable-preview --source 19 --add-modules java.logging,jdk.httpserver "$0" "$@"; exit $?
+///usr/bin/env java --source 21 --add-modules java.logging,jdk.httpserver "$0" "$@"; exit $?
 import com.sun.net.httpserver.*;
 import java.io.*;
 import java.net.*;
